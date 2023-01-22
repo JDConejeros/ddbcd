@@ -1,0 +1,21 @@
+Package: ddbcd
+Title: Distance-Dependent Bayesian Community Detection
+Version: 0.0.0.9000
+Authors@R: 
+    person("Isabelle", "Beaudry", , "isabelle.beaudry@mat.uc.cl", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Marcelo", "Mendoza", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Naim", "Bro", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Fabián", "Sepúlveda", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Hernan", "Sarmiento", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("José Daniel", "Conejeros", , "jdconejeros@uc.cl", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Functions for Distance-dependent Bayesian community detection: a multidimensional network model with node attributes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
